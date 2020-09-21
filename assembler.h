@@ -1,11 +1,3 @@
-/**********************************************************************
-* Course: 20465 final project- C assembler
-* Semester: 2020b
-* Student: Shahar Nechushtan 
-* ID: 204259675
-**********************************************************************/ 
-
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
