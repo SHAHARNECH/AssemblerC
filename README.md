@@ -1,5 +1,5 @@
 # AssemblerC
-simulates assembler in C for 'System programming Lab' course at Open University 2020b- 20465
+simulates a two pass assembler in C for 'System programming Lab' course - Open University -
 
 * Course: 20465 final project- C assembler
 * Semester: 2020b
